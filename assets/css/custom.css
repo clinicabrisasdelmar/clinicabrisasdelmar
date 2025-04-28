@@ -1248,7 +1248,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 
 .blog-first-img {
     background: url(../images/blog-slider-img.jpg) no-repeat center;
-    background-position-x: 36%;
+    background-position-x: 60%;
 }
 
 .blog-second-img {
@@ -1260,6 +1260,22 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     background: url(../images/blog-slider-img3.jpg) no-repeat center;
     background-position-x: 63%;
 }
+
+.blog-four-img {
+    background: url(../images/blog-slider-img4.jpg) no-repeat center;
+    background-position-x: 63%;
+}
+
+.blog-five-img {
+    background: url(../images/blog-slider-img5.jpg) no-repeat center;
+    background-position-x: 63%;
+}
+
+.blog-six-img {
+    background: url(../images/blog-slider-img6.jpg) no-repeat center;
+    background-position-x: 63%;
+}
+
 
 .blog-details {
     width: 290px;
@@ -1384,9 +1400,9 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 }
 
 .doctor-img-con {
-    background: url(../images/doctors-img.png) no-repeat center;
-    width: 566px;
-    height: 530px;
+    background: url(../images/x.png) no-repeat center;
+    width: 461px;
+    height: 461px;
     position: absolute;
     top: -167px;
     left: -64px;
@@ -1602,7 +1618,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 /* about us page start */
 /* sub banner section style start*/
 .sub-banner-con {
-    background: url(../images/sub-banner-bg-img.jpg) no-repeat center;
+    background: url(../images/banner-a.png) no-repeat center;
     background-size: cover;
 }
 
@@ -1953,7 +1969,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 /* about us page  */
 /* services page banner section */
 .services-banner-sec {
-    background: url(../images/services-banner-img.jpg) no-repeat center;
+    background: url(../images/banner-a.png) no-repeat center;
     background-size: cover;
 }
 
@@ -2026,7 +2042,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 /* doctors page start */
 /* doctors page banner style */
 .doctors-banner-sec {
-    background: url(../images/doctor-banner-img.jpg) no-repeat center;
+    background: url(../images/banner-a.png) no-repeat center;
     background-size: cover;
 }
 
@@ -2035,7 +2051,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 /* pricing page start */
 /* pricing page banner style */
 .pricing-banner-sec {
-    background: url(../images/pricing-banner-img.jpg) no-repeat center;
+    background: url(../images/banner-a.png) no-repeat center;
     background-size: cover;
 }
 
@@ -2128,7 +2144,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 /* faq page start */
 /* faq banner style start */
 .faq-banner-sec {
-    background: url(../images/faq-banner-img.jpg) no-repeat center;
+    background: url(../images/banner-a.png) no-repeat center;
     background-size: cover;
 }
 
@@ -2242,7 +2258,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 /* contact page start */
 /* contact page banner style */
 .contact-banner-sec {
-    background: url(../images/contact-banner-img.jpg) no-repeat center;
+    background: url(../images/banner-a.png) no-repeat center;
     background-size: cover;
 }
 
